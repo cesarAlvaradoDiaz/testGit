@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Web
 {
-    public class Class2
+    public class Class22
     {
     }
 }
